@@ -1,3 +1,2 @@
-# Git merge exercise
-
-Exercise for git projects.
+# merge-exercise
+# #The Navemenu should contain a "Home" , "About" and "Contact" Option
