@@ -1,1 +1,3 @@
-# merge-exercise
+# Git merge exercise
+
+Exercise for git projects.
